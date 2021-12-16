@@ -1,15 +1,24 @@
 {
-  "name": "1",
+  "name": "background-generator",
   "version": "1.0.0",
   "description": "",
-  "main": "Dom Events(js).js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
+  "main": "script.js",
   "dependencies": {
     "resolve-url": "^0.2.1",
     "urix": "^0.1.0"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayush-019/background-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ayush-019/background-generator/issues"
+  },
+  "homepage": "https://github.com/Ayush-019/background-generator#readme"
 }
